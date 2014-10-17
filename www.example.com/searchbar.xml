@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <footer name="searchbar">
-  <category title="Searchbar">
-    <element href="http://www.example.com/test/">Test 2</element>
-  </category>
+    <category title="Searchbar">
+        <element href="http://www.example.com/test/">Test 2</element>
+        <element href="http://test.example.com/">Test3</element>
+    </category>
 </footer>
