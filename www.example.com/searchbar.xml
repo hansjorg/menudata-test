@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menu name="searchbar">
     <category title="Nyheter">
-        <element href="http://www.example.com/test">Test</element>
+        <element href="http://www.example.com/test">Test 2</element>
     </category>
-    <challengetop href="">
-        <image src=""/>
-        <maintext></maintext>
-        <subtext></subtext>
-    </challengetop>
 </menu>
