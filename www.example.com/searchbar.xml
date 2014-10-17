@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<menu name="searchbar">
-    <category title="Nyheter">
-        <element href="http://www.example.com/test">Test 2</element>
-    </category>
-</menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<footer name="searchbar">
+  <category title="Searchbar">
+    <element href="http://www.example.com/test/">Test 2</element>
+  </category>
+</footer>
